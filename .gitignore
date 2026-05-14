@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.CR2
+*.CR3
+*.jpg
+*.jpeg
+*.tiff
+*.tif
+output/
+rejected/
+input/
+.DS_Store
+batch_log.txt

@@ -1,0 +1,8 @@
+Pillow>=10.0
+rawpy>=0.18
+piexif>=1.1
+imagehash>=4.3
+numpy>=1.24
+exiftool
+openai>=1.0
+tqdm
